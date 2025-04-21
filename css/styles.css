@@ -354,13 +354,11 @@ body {
   margin-right: 120px;
 }
 
-.footer-content .footer-content-text {
+.footer-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-
-
 
 .footer-socials-title {
   font-weight: 500;
